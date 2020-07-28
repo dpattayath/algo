@@ -1,0 +1,32 @@
+1234567 [INFO] Accessed https://random.co.uk/beta.html?b=9
+1234670 [INFO] Process completed in 4ms.
+1234678 [Warning] http://random.co.uk unexpected behaviour
+1234678 [INFO] Accessed http://www.example.com/alpha.html?a=1
+1234567 [INFO] Accessed http://news.co.uk/beta.html?b=9
+1234670 [INFO] Process completed in 4ms.
+1234678 [Warning] http://random.co.uk unexpected behaviour
+1234678 [INFO] Accessed http://www.example.com/alpha.html?a=1
+1234567 [INFO] Accessed http://kerala.co.uk/beta.html?b=9
+1234670 [INFO] Process completed in 4ms.
+1234678 [Warning] http://random.co.uk unexpected behaviour
+1234678 [INFO] Accessed http://www.example.com/alpha.html?a=1
+1234567 [INFO] Accessed https://news.co.uk/beta.html?b=9
+1234670 [INFO] Process completed in 4ms.
+1234678 [Warning] http://news.co.uk unexpected behaviour
+1234678 [INFO] Accessed http://www.example.com/alpha.html?a=1
+1234567 [INFO] Accessed http://random.co.uk/beta.html?b=9
+1234670 [INFO] Process completed in 4ms.
+1234678 [Warning] http://random.co.uk unexpected behaviour
+1234678 [INFO] Accessed http://www.google.com/alpha.html?a=1
+1234567 [INFO] Accessed http://news.co.uk/beta.html?b=9
+1234670 [INFO] Process completed in 4ms.
+1234678 [Warning] http://random.co.uk unexpected behaviour
+1234678 [INFO] Accessed http://www.example.com/alpha.html?a=1
+1234567 [INFO] Accessed http://kerala.co.uk/beta.html?b=9
+1234670 [INFO] Process completed in 4ms.
+1234678 [Warning] http://random.co.uk unexpected behaviour
+1234678 [INFO] Accessed http://www.example.com/alpha.html?a=1
+1234567 [INFO] Accessed http://news.co.uk/beta.html?b=9
+1234670 [INFO] Process completed in 4ms.
+1234678 [Warning] http://news.co.uk unexpected behaviour
+1234678 [INFO] Accessed http://www.google.com/alpha.html?a=1
